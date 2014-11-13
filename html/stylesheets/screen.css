@@ -1,0 +1,9 @@
+/* line 1, ../../build/sass/screen.scss */
+.ng-invalid.ng-dirty {
+  border-color: red;
+}
+
+/* line 5, ../../build/sass/screen.scss */
+.ng-valid.ng-dirty {
+  border-color: green;
+}
