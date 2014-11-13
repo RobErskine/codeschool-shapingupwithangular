@@ -1,12 +1,7 @@
-angular test
+#angular test
 
-Personal boilerplate for creating static sites using compass, scss, bourbon, jquery, grunt and html5 goodness.
+http://campus.codeschool.com/courses/shaping-up-with-angular-js
 
-## let's do work
-1.  only edit build/* files
-2.  npm install grunt
-3.  npm install
-4.  grunt watch
-5.  taaaa daaaaaaa
+![alt tag](http://f.cl.ly/items/3Y1s1O1y263i2B1B471h/Screen%20Shot%202014-11-13%20at%204.58.42%20PM.png)
 
-###### swag
+That's right nerds.
